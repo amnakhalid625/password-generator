@@ -1,8 +1,7 @@
 # React + Vite 
 ## react
 ### password generator
-
-Blockquote random password generator
+ Random password generator
 
 Currently, two official plugins are available:
 
